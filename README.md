@@ -9,7 +9,7 @@
 -----
 **Используемые инструменты и навыки**
 * Python (Pandas, Matplotlib, Plotly, Seaborn, Numpy, SciPy)
-* SQL: PostgreSQl
+* SQL: PostgreSQL
 * Jupiter Notebook
 * Tableau
 * исследовательский анализ, маркетинговый, когортный, статистический (А/В-тесты)
