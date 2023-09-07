@@ -18,7 +18,9 @@
 
 ------
 Со мной можно связаться: 
+
 tg: https://t.me/@leraish - здесь я отвечу быстрее
+
 e-mail: lera.ish@yandex.ru 
 
 
